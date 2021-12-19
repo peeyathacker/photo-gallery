@@ -26,7 +26,6 @@ A project that allows you to:
 <img src="screenshots\sunrisesunset_screenshot.png">
 <img src="screenshots\nature_screenshot.png">
 <br />
-<br />
 
 ## Tools and Technologies Used
 
@@ -36,7 +35,6 @@ A project that allows you to:
   <img height="43" src="screenshots\python_logo.png"> &nbsp; &nbsp; 
   <img height="38" src="screenshots\django_logo.png"> &nbsp; &nbsp; 
 </p>
-<br />
 
 ## To Run this Project
 
