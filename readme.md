@@ -51,8 +51,6 @@ Run the following commands:<br/>
 Start the project:<br/>
 ```$ python manage.py runserver```
 <br />
-<br />
-
 
 ## Contributors
 
